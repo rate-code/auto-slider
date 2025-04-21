@@ -39,9 +39,9 @@ A simple Flutter app that shows how to implement the Auto Slider in Flutter App.
 ```bash
 lib/
 ├── screens/
-│   ├── home_screen.dart   # Home screen
+│   ├── home_screen.dart    # Home screen
 ├── widgets/
-│   └── auto_slider.dart # Widget for auto slider
+│   └── auto_slider.dart    # Widget for auto slider
 └── main.dart               # Entry point of the app
 ```
 
