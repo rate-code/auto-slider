@@ -2,6 +2,8 @@
 
 A simple Flutter app that shows how to implement the Auto Slider in Flutter App.
 
+![App Demo](assets/demo1.png) | ![App Demo](assets/demo2.png)
+
 ## Technologies Used
 
 - **Flutter**: The framework used to build the app.
