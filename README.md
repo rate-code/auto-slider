@@ -2,7 +2,10 @@
 
 A simple Flutter app that shows how to implement the Auto Slider in Flutter App.
 
-![App Demo](assets/demo1.png) | ![App Demo](assets/demo2.png)
+<p float="left">
+  <img src="assets/demo1.png" width="45%"  alt="Demo Image 1"/>
+  <img src="assets/demo2.png" width="45%"  alt="Demo Image 2"/>
+</p>
 
 ## Technologies Used
 
