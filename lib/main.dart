@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
     return ResponsiveSizer(builder: (context, orientation, screenType) {
       return MaterialApp(
         debugShowCheckedModeBanner: false,
-        title: 'Movies',
+        title: 'Auto Slider Demo',
         home: const HomeScreen(),
       );
     });
